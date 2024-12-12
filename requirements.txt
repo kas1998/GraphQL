@@ -1,0 +1,3 @@
+Flask==2.3.2
+Flask-GraphQL==2.0.1
+Graphene==3.3.0
